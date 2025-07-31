@@ -1,5 +1,5 @@
 # data_analytics_dashboards
-Dashborads in Power BI for my pet projects
+Dashboards in Power BI for my pet projects
 
 # Superstore Sales Analytics Dashboard (2018–2021)
 This Power BI dashboard visualizes sales performance across product categories, regions, and customers for a fictional superstore from 2018 to 2021.
