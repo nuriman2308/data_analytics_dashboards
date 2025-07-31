@@ -1,5 +1,5 @@
 # data_analytics_dashboards
-Dashborads in Power BI for my pet projects
+Dashboards in Power BI for my pet projects
 # Bank Customer Analysis Dashboard
 
 This Power BI dashboard provides a demographic and financial overview of bank customers. 
